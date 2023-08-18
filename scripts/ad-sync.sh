@@ -4,6 +4,8 @@
 # attribute in AD and creates mailbox for it.#
 # If email is exist in zimbra, but not in AD,#
 # it set locked
+# Синхронизация учёток из AD и генерация 
+# почтовых подписей сотрудников.
 #
 # Maintainer: 
 # Email: 
